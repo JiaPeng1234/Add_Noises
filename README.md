@@ -4,7 +4,7 @@ Add all kinds of noise to a picture, including:
 GrayscalePeppers\GaussianNoise\MeanfilterOnGauss\MeanfilterOnSnP
 SaltandPepper\MedianfilterOnGauss\MedianfilterOnSnP\AdaptiveThresholding\Prewitt\Sobel
 
-#Windows
+### Windows
 
 To compile these codes, you need to install OpenCV, and configure them in your Visual Studio. Download OpenCV from officical web, make sure the version you downloaded. 
 The steps are:
